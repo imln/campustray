@@ -1,9 +1,7 @@
 <h2>screenshot<h2>
-![campustray document page](Screenshot/campustray_document.jpg)
-
-/home/ln/Downloads/project-20191008T094505Z-001/project/campustray_gallery.jpg
-/home/ln/Downloads/project-20191008T094505Z-001/project/campustray_home.jpg
-/home/ln/Downloads/project-20191008T094505Z-001/project/campustray_index.jpg
-/home/ln/Downloads/project-20191008T094505Z-001/project/campustray_index_png.png
-/home/ln/Downloads/project-20191008T094505Z-001/project/campustray_map.jpg
-/home/ln/Downloads/project-20191008T094505Z-001/project/campustray_profile.jpg
+https://github.com/imln/campustray/blob/master/Screenshot/campustray_document.jpg
+https://github.com/imln/campustray/blob/master/Screenshot/campustray_gallery.jpg
+https://github.com/imln/campustray/blob/master/Screenshot/campustray_home.jpg
+https://github.com/imln/campustray/blob/master/Screenshot/campustray_index.jpg
+https://github.com/imln/campustray/blob/master/Screenshot/campustray_map.jpg
+https://github.com/imln/campustray/blob/master/Screenshot/campustray_profile.jpg
