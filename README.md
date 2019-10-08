@@ -1,5 +1,5 @@
 <h2>screenshot<h2>
-![campustray document page](https://github.com/imln/campustray/blob/master/Screenshot/campustray_document.jpg)
+![campustray document page](Screenshot/campustray_document.jpg)
 
 /home/ln/Downloads/project-20191008T094505Z-001/project/campustray_gallery.jpg
 /home/ln/Downloads/project-20191008T094505Z-001/project/campustray_home.jpg
